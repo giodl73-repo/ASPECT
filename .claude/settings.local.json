@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "Bash(*)",
+      "Skill(*)",
+      "Agent(*)",
+      "WebSearch(*)",
+      "WebFetch(*)",
+      "Bash(python3 *)"
+    ]
+  }
+}

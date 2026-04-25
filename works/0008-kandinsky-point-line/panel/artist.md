@@ -1,0 +1,57 @@
+﻿---
+work: 0008-kandinsky-point-line
+stage: panel
+reviewer: artist
+rubric_version: v1.4
+created: 2026-04-23
+---
+
+# Artist Lens -- Panel Review
+
+*School type: B (Founder). Abstract-art.*
+
+## Scores
+
+| Dimension | Score | Max |
+|-----------|-------|-----|
+| School Fidelity (Type B) | 18 | 20 |
+| Data/Story Integrity | 14 | 20 |
+| Legibility (contemplative-study context) | 11 | 15 |
+| Visual Economy | 14 | 15 |
+| Resonance (Type I) | 15 | 15 |
+| Craft | 15 | 15 |
+| **Total** | **87** | **100** |
+
+## Review
+
+The challenge Kandinsky sets himself in *Point and Line to Plane* is one of the most ambitious in the history of visual art: to demonstrate that the experience of looking at marks on a surface is not arbitrary, not merely habitual, not culturally contingent -- but governed by formal properties that can be named and learned and repeated. To do this, he produces not paintings but diagrams. He turns his own practice into a science.
+
+Does it work? Mostly. The tension diagrams work almost perfectly. When you look at a point in the upper-right corner, you feel it. Not metaphorically -- you actually feel an upward pull, a rising energy. Kandinsky is not inventing this; he is naming something that exists. The diagram demonstrates by producing the experience it claims to demonstrate. That is a remarkable achievement.
+
+**On resonance -- primary Type I:**
+
+The diagrams achieve their primary resonance type at full strength. Kandinsky designed them to produce specific perceptual effects in the viewer. They produce those effects. The tension-field diagrams create tension. The line-character diagrams feel different temperatures. The viewer who engages with them in good faith -- who brings the contemplative study they require -- receives exactly what Kandinsky intends to give.
+
+Score 15. I have nothing to withhold here. The intended effect is achieved with precision and economy.
+
+**On the color-form correspondences -- where I diverge from Kandinsky:**
+
+The color-form diagrams (yellow = triangle, blue = circle, red = square) are the weakest part of the theoretical edifice, and I say this as someone deeply sympathetic to the project. The claims feel right in the context of 1920s European visual culture -- yellow IS more triangular than circular, in some felt sense. But the feeling is partly cultural, and Kandinsky does not acknowledge this. He presents cultural intuition as formal law.
+
+This weakens the theoretical claim without significantly weakening the artistic achievement. The paintings that the theory was built to justify are great regardless of whether the theory is universally valid. But the diagrams present themselves as demonstration, not as intuition, and this creates an obligation to the evidence that the color-form correspondences do not fully meet.
+
+**On the rubric stress test -- does the rubric fail?**
+
+The brief asks whether the rubric fails gracefully or needs new dimensions when applied to abstract work. My assessment: it fails gracefully. The scores it produces (across this panel, averaging in the 80-87 range) feel approximately right for a work of this quality, ambition, and imperfection. The Data/Story Integrity dimension handled the color-form overreach correctly -- it docked for claims that overreach their evidence, which is exactly what the dimension should do.
+
+What the rubric lacks is a name for what Kandinsky's diagrams do that is different from what a bar chart does. But it does not need that name to produce a useful score. The absence is a gap in vocabulary, not a failure of the scoring apparatus.
+
+**On aesthetic resonance in pedagogical abstract work:**
+
+These diagrams are beautiful in a specific way: the beauty of a clear argument. The economy and precision of the demonstrations -- each one showing exactly one claim, no more -- has an aesthetic quality that is entirely consistent with the pedagogical purpose. This is not decoration; this is the beauty of rightness. Score Craft 15.
+
+## Innovations Flagged
+
+1. **Self-demonstrating diagram** -- a diagram that both states and demonstrates its claim, where the viewer's experience of the demonstration IS the verification. This is a distinct artifact type from illustrative diagrams (which clarify a separate claim) and from data charts (which encode external information). The rubric should name this type and note that its Data/Story Integrity standard is verification-by-experience rather than correspondence-to-external-data. *Rubric anchor: Data/Story Integrity / School Fidelity.*
+
+2. **Beauty of rightness** -- in pedagogical abstract work, aesthetic quality is produced by argumentative clarity and formal economy, not by sensory pleasure. A diagram that states exactly one correct claim, with the minimum necessary marks, achieves aesthetic quality through its logical properties. This is distinct from both decorative beauty (added to content) and accuracy-generated beauty (generated by precise rendering of complex subject matter). *Rubric anchor: Resonance (Type I) / Craft.*
