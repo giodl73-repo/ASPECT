@@ -1,4 +1,4 @@
-# DEGAS Tracker
+# ASPECT Tracker
 
 **Rubric version:** v3.0 — ASPECT (Aim, School, Precision, Effect, Clarity, Truth); board-ratified 7–3  
 **Works completed:** 55 (21 canonical imports + 28 original designs + revisions)  

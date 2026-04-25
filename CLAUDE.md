@@ -1,10 +1,10 @@
-# DEGAS — Visualization Design Lab
+# ASPECT — Visualization Design Lab
 
 ## Mission
 
-DEGAS is a studio for studying and designing visualizations across the full spectrum from quantitative statistical graphics to pure artistic expression. We learn how visualization schools work by working in them — designing in their vernacular, critiquing through their principles, and evolving our understanding through practice.
+ASPECT is a framework for studying and designing visualizations across the full spectrum from quantitative statistical graphics to pure artistic expression. We learn how visualization schools work by working in them — designing in their vernacular, critiquing through their principles, and evolving our understanding through practice.
 
-The name honors the project's dual nature: Edgar Degas, who studied movement and light obsessively from within a tradition while quietly breaking it.
+The studio is named DEGAS after Edgar Degas, who studied movement and light obsessively from within a tradition while quietly breaking it. The rubric is named ASPECT: Aim, School, Precision, Effect, Clarity, Truth.
 
 ## Core Vocabulary
 

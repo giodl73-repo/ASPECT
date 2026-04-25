@@ -1,14 +1,14 @@
-# DEGAS — Visualization Design Lab
+# ASPECT
 
-A studio for studying and designing visualizations across the full spectrum from quantitative statistical graphics to pure artistic expression.
+**A**im · **S**chool · **P**recision · **E**ffect · **C**larity · **T**ruth
 
-Named for Edgar Degas, who studied movement and light obsessively from within a tradition while quietly breaking it.
+A framework for evaluating, designing, and evolving visualization work across the full spectrum — from quantitative statistical graphics to pure artistic expression.
 
 ---
 
-## The ASPECT Rubric
+## The Framework
 
-DEGAS uses the **ASPECT** framework (v3.0) to evaluate visualization works across six dimensions:
+ASPECT checks every aspect of a visualization across six dimensions (100 points):
 
 | | Dimension | Pts | The question |
 |-|-----------|-----|-------------|
@@ -19,50 +19,44 @@ DEGAS uses the **ASPECT** framework (v3.0) to evaluate visualization works acros
 | **C** | Clarity | 15 | Can the intended audience, in the intended context, receive it? |
 | **T** | Truth | 20 | Does the work faithfully represent what it claims to show? |
 
-ASPECT checks every aspect of a visualization — how it aims, what language it speaks, how precisely it is made, what effect it produces, how clearly it reaches its audience, and whether it is true.
+The rubric lives at [`scoring/RUBRIC.md`](scoring/RUBRIC.md). It reached v3.0 through 300 innovations and 21 amendment clusters across 55 reviewed works.
 
 ---
 
-## What's in this repository
+## The Personas
 
-- **`scoring/RUBRIC.md`** — The full ASPECT rubric v3.0 with all dimension anchors, modifiers, and amendment notes
-- **`schools/`** — 14 documented visualization schools (statistical-graphics, isotype, schematic-cartography, ecological-visualization, abstract-art, and more)
-- **`personas/`** — 10 historical visualizer personas who voice panel reviews (Minard, Tufte, Nightingale, Playfair, Bertin, Neurath, Beck, Kandinsky, Du Bois, Rosling)
-- **`works/`** — 55 reviewed works: canonical imports and original designs, all scored under ASPECT
-- **`scoring/INNOVATIONS.md`** — 300 innovations logged from panel sessions, driving rubric amendments
-- **`.claude/skills/`** — Skills for running the DEGAS pipeline (brief, school, design, panel, innovation, amendment, handoff)
+Ten historical visualizers voice panel reviews. They disagree by design.
 
----
-
-## The 10 Personas
-
-Each persona is a historically grounded visualizer who embodies one or more visualization schools and voices panel reviews from a genuine intellectual stance. They disagree by design.
-
-| Persona | School(s) | Known for |
-|---------|-----------|----------|
-| Minard | Cartography + statistical | The Napoleon march; flow maps; dimensional layering |
-| Tufte | Statistical graphics | Data-ink ratio; chartjunk; small multiples |
-| Nightingale | Statistical + advocacy | Coxcomb diagrams; advocacy visualization |
-| Playfair | Statistical graphics | Invented bar charts, line graphs, pie charts |
-| Bertin | Semiotics + cartography | Visual variables grammar; retinal efficiency |
-| Neurath | ISOTYPE | Pictographic democracy; repetition-not-scaling |
-| Beck | Schematic cartography | London Underground map; topology over geography |
-| Kandinsky | Abstract art | Point-line-plane grammar; synesthetic composition |
-| Du Bois | Advocacy + statistical | Precision-as-defiance; the 1900 Paris charts |
-| Rosling | Dynamic statistical | Animated bubble charts; wonder as the goal |
+| Persona | Known for |
+|---------|----------|
+| **Minard** | The Napoleon march; flow maps; quantitative mourning |
+| **Tufte** | Data-ink ratio; chartjunk as moral failure; small multiples |
+| **Nightingale** | Coxcomb diagrams; advocacy visualization; political presentation |
+| **Playfair** | Invented the bar chart, line graph, and pie chart |
+| **Bertin** | Visual variables grammar; retinal efficiency; semiology of graphics |
+| **Neurath** | ISOTYPE; pictographic democracy; repetition-not-scaling |
+| **Beck** | London Underground map; topology over geography |
+| **Kandinsky** | Point-line-plane grammar; abstract compositional logic |
+| **Du Bois** | Precision-as-defiance; the 1900 Paris charts; testimony through data |
+| **Rosling** | Animated bubble charts; wonder as the goal; time as data |
 
 ---
 
-## Score Range (55 works)
+## The Schools
 
-| Score | Works |
-|-------|-------|
-| 90+ | Chu-pei proof (93.6), Vaccines (92.7), Beck Underground (91.1), DEGAS Scoreboard (90.6), Antibiotic Resistance C3 (90.6) |
-| 85–89 | Child Mortality, Amazon, Coral Reef, Ocean Depth, NYT Capitol, Playfair Atlas, Neurath ISOTYPE, Snow Cholera... |
-| 80–84 | Most canonical imports; first-iteration originals |
-| 57–79 | Booth Poverty Maps, HOLC Redlining (69.2), WWI Propaganda (57.1 — ADVISORY) |
+14 visualization schools documented in [`schools/`](schools/):
 
-Six works received ADVISORY scores (< 60) — all confirmed as advocacy-as-coercion: WWI propaganda, tobacco physician endorsements, Soviet Five-Year Plan charts, pharmaceutical subgroup cherry-picking, partisan gerrymandering maps, climate denial cherry-pick charts.
+`statistical-graphics` · `cartography` · `schematic-cartography` · `isotype` · `epidemiological-mapping` · `scientific-illustration` · `abstract-art` · `ecological-visualization` · `advocacy-visualization` · `information-architecture` · `data-art` · `narrative-visualization` · `mathematical-proof-visualization` · `dynamic-statistical-graphics`
+
+---
+
+## 55 Works Scored
+
+Score range: **57.1** (WWI propaganda — Advisory) to **93.6** (Pythagorean Chu-pei proof).
+
+Six Advisory scores, all confirmed advocacy-as-coercion: WWI propaganda, tobacco physician endorsements, Soviet Five-Year Plan statistics, pharmaceutical subgroup cherry-picking, partisan gerrymandering, climate denial baseline manipulation.
+
+See [`TRACKER.md`](TRACKER.md) for the full works log.
 
 ---
 
@@ -72,12 +66,12 @@ Six works received ADVISORY scores (< 60) — all confirmed as advocacy-as-coerc
 BRIEF → SCHOOL → DESIGN → PANEL → INNOVATION → AMENDMENT → HANDOFF
 ```
 
-Every work goes through: a brief defining the subject, audience, and school; a design specification; a panel of 5 personas scoring across all 6 ASPECT dimensions; innovations logged; clusters formed; rubric amended when thresholds are met.
-
-The rubric evolved from v1.0 (6 plain dimensions) to v3.0 ASPECT through 300 innovations and 21 adopted amendment clusters across 55 works.
+Skills in [`.claude/skills/`](.claude/skills/) run each stage. Every panel surfaces innovations; innovations cluster; clusters trigger rubric amendments. The rubric evolved through this process — not by design, but by use.
 
 ---
 
-## License
+*Built in the DEGAS visualization studio. Named for Edgar Degas, who studied movement obsessively from within a tradition while quietly breaking it.*
 
-MIT
+---
+
+MIT License
