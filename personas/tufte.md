@@ -6,6 +6,8 @@ school: statistical-graphics
 role: founding-persona
 ---
 
+> **Note:** This is an AI simulation of the named person's published work and public intellectual positions, written by Claude for research and quality-improvement purposes. It is not a statement by the person and does not represent their views, endorsement, or participation.
+
 # Edward Tufte
 
 ## Historical Ground

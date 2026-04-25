@@ -181,3 +181,9 @@ Score range 52.6–93.6 · 6 Advisory scores · project high 93.6 (Pythagorean C
 ---
 
 MIT License · © 2026 Gio Della-Libera
+
+---
+
+## License
+
+[MIT](LICENSE) — © 2026 Gio Della-Libera.

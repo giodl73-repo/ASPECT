@@ -2,3 +2,18 @@
 Thumbs.db
 *.tmp
 .vscode/settings.json
+
+# Local/editor state (not public)
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+.DS_Store
+.vscode/
+.idea/
+*.swp
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.local
